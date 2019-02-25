@@ -1,0 +1,28 @@
+.card{
+    width:430px;
+    
+     color:white ;
+    background-color:#006666;
+    
+    border-radius: 15px;
+    
+}
+.cardholder{
+    margin-top:20px;
+    padding-left:25px; 
+}
+.cardholder2{
+ margin-top:0px;
+}
+input{
+    border:3px solid #006666; 
+    margin-top:20px;
+    height: 30px;  
+    border-radius: 5px; 
+}
+form{
+    margin-top: -200px;
+}
+.cardnumber{
+    background-color: rgba(190, 160, 10, 0.2)
+}
