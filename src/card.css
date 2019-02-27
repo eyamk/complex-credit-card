@@ -20,9 +20,9 @@ input{
     height: 30px;  
     border-radius: 5px; 
 }
-form{
+/* form{
     margin-top: -200px;
-}
+} */
 .cardnumber{
     background-color: rgba(190, 160, 10, 0.2)
 }

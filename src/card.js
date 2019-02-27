@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'react-grid-system'
 import './card.css'
-//import {Icon} from 'antd'
+
 
 
 
@@ -10,11 +10,11 @@ class Card extends Component{
     super(props)
 
 this.state={
-    name:"",
+    name:"********",
     title:"Company name",
-    date:"",
-    number:"",
-    show:true
+    date:"****-**",
+    number:"**** **** **** ****",
+    
 }
     }
 handleChangeName =(e)=>{
